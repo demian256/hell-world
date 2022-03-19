@@ -1,0 +1,4 @@
+server:
+    servlet:
+        context-path: /hellworld
+    port: 8081
