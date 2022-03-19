@@ -11,7 +11,7 @@ public class HellWordController {
 
     @GetMapping(value = "/hell/{value}")
     public String getHellWorld(@PathVariable("value") String value) {
-        return "hell world buachitolende -> " + value;
+        return "hell world sása -> " + value;
 
 
     }
